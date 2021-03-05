@@ -1,20 +1,20 @@
-Ability Not Found:The ability ID associated with this ability does not exist.
-Sprint:Increases your movement speed, but also increases sound made while moving.
-Sneak:Your movements become silent, at the cost of a lot of speed.
-Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
-Unarmed:You have nothing. Find something. Anything.
-Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Rifle, Grenades, a Radio, a Disarmer and an Access Card.
-Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
-Startling Speed:When no humans can see you, you move very quickly. If you're being directly watched by a human, you can't move or attack, but all watching humans will simultaneously blink every few seconds, allowing you to act.
-Panic:You move more quickly as your health decreases.
-Sinkhole:You can place a black pool of corrosion and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
-Corrosion:You can move through doors by walking into them.
-Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
-Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
-Scopophobia:You start docile, and become enraged when you're seen or hurt. Quell your rage by killing transgressors - follow their light before your fury subsides. The indignity of each offender adds to your AHP, preventing harm to you as long as it stands.
-Try Not To Cry (Docile):It's too hard. Leaning on a door helps; you become quieter and stand in place against it, calming yourself down... or waiting for someone to come through.
-Melee Attack (Rage):Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and kill most humans instantly.
+Yetenek Bulunamadı: Ver.
+Koşma: Hareket hızını arttırır, ama bir yandan daha çok ses çıkarırsın.
+Yavaş Yürüme: Hareketlerin ses çıkartmaz, ama bunun karşılığında hızından büyük ölçüde fedakarlık edersin.
+Envanter: Envanterini aç ve Sol Tık ile eşyayı seç, yada Sağ Tık ile onu yere at.
+Eşyasız: Hiçbir şeyin yok. Bir şeyler bul. Herhangi bir şey.
+Erişim Kartı: Bir erişim kartına sahipsin, belki en iyisi değil, ama yine de onu sakla.
+Standart Donanım: Bir Tüfek, bir kaç Bomba, bir Radyo Telsiz, bir Kelepçe ve bir Erişim Kartı ile donatıldın.
+Silahlı ve Tehlikeli: Bir Hafif Makineli Tüfek, Hack Cihazı (erişim kartı), ve bir İlk Yardım Kiti ile donatıldın.
+Korkutucu Hız: Bir İnsan sana bakmıyorken çok hızlı hareket edersin. Eğer bir insan tarafından gözetleniyorsan, hareket edemez ve saldıramazsın, ancak bütün insanlar eşzamanlı bir şekilde birkaç saniyede bir göz kırparlar, bu senin hareket etmene olanak sağlar.
+Panik: Canın azaldıkça daha hızlı hareket edersin.
+Dolin: Yere aşınmış siyah bir havuz oluşturabilirsin ve ona istediğin zaman geri ışınlanabilirsin. Işınlanma bir kaç saniye sürer.\nDolinini tekrar oluşturarak yerini değiştirebilirsin.
+Aşınma: Kapıların içinden yürüyerek geçebilirsin.
+Kuğunun Son Ötüşü: Mermilerden neredeyse hiç hasar almazsınız, ancak muhafaza odanızda bir kişi kendini feda eder ve diğer kişi düğmeye basarsa 15 saniye içinde muhafaza edilirsin.
+Cep Boyutu: Bir insanı yakalar ve onu hızla öldüren bir cep boyutuna ışınlar. Cep boyutundaki insanlar doğru yolu seçmeli, yoksa ölürler.
+Skopofobi Korkusu: Normalde uysal birisin, ancak birisi seni gözetlerse yada incitirse uysallığını kaybedip sinirlenirsin. Sinirinizi sizi inciten veya gözeten kişiyi öldürerek yatıştırın - tekrar uysallaşmadan önce ışığı takip edin ve intikamınızı alın. Size bakan veya vuran kişi sayısı ne kadar fazlaysa AHP'nize katkı sağlar, AHP'niz kalkanınız gibidir, var olduğu sürece canınız gitmez.
+Sakinleş: Ağlamamak sizin için kolay bir şey değil. Kapılara yaslanmak yardımcı olabilir; daha sessiz olursun ve kendini sakinleştirirsin... ya da birinin gelmesini beklersin.
+Yakın Dövüş (Sinir): Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and kill most humans instantly.
 Ultrasensitive:You can't see humans unless they run, bump you, or fire a weapon in close proximity to you.
 Predator:Your footsteps are silent. Holding the assigned key increases your speed, but makes your movement audible.
 Mimic:You can speak out loud to any nearby players, including humans.
